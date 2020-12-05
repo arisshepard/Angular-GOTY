@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "firestore-grafica-14caa": {
+      "hosting": {
+        "gameoftheyear": [
+          "firestore-grafica-14caa"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "firestore-grafica-14caa"
+  }
+}
